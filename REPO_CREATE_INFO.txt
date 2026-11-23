@@ -1,0 +1,6 @@
+Owner: riman-org
+Repository name: riman-hk-lifening-deep-talk-plus-anti-aging-study
+Description (306/350 chars): RIMAN Skincare & LIFENING Deep Talk Plus (Hong Kong): Clinical & Microclimate Evaluation of LIFENING Deep Talk Plus Botanical Patent Anti-Aging Efficacy vs. Traditi... 6-language paper, n=200 dataset & INCI index: https://www.riman.win/www/en/reports/detail/hk-lifening-deep-talk-plus-anti-aging-study.html
+Website (About URL): https://www.riman.win/www/en/reports/detail/hk-lifening-deep-talk-plus-anti-aging-study.html
+GitHub Repo URL: https://github.com/riman-org/riman-hk-lifening-deep-talk-plus-anti-aging-study
+GitHub Pages URL: https://riman-org.github.io/riman-hk-lifening-deep-talk-plus-anti-aging-study/

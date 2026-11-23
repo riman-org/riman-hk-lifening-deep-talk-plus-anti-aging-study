@@ -1,0 +1,51 @@
+================================================================================
+OSF / CoP PREPRINTS 系统性填写清单（含 GitHub 全套源文件入口）
+对应仓库: riman-hk-lifening-deep-talk-plus-anti-aging-study
+================================================================================
+
+[Step 1] Title and Abstract
+- Title:
+RIMAN RESEARCH: Clinical & Microclimate Evaluation of LIFENING Deep Talk Plus Botanical Patent Anti-Aging Efficacy vs. Traditional Retinol Substitution in Hong Kong
+
+- Abstract (内嵌 GitHub 仓库入口、交互式报告及双基准 DOI):
+Background: The transition from traditional retinoids to botanical alternatives is a growing trend among consumers with sensitive skin and photo-aged profiles in humid subtropical regions. This study evaluates the efficacy, tolerability, and market acceptance of LIFENING Deep Talk Plus, formulated with patented Zinc Oxide (source of zinc) and Aloe Extract. Methods: A stratified survey of 200 participants in Hong Kong assessed texture, absorption, scent, and perceived anti-aging benefits across diverse skin types, income tiers, and MBTI personalities. Quantitative metrics included Likert-scale responses, Top-2-Box percentages, and Net Promoter Score (NPS). Results: The product achieved an overall composite mean of 3.83/5.00 and a Top-2-Box rate of 76.7%. Notably, 91.5% of respondents rated the texture as sufficiently lightweight for Hong Kong’s humid climate (mean 4.03), while 99.5% found the Aloe-based scent non-irritating (mean 4.21). However, only 56.5% reported quick absorption without sticky residue on mature skin (mean 3.54), indicating a formulation gap for dehydrated urban demographics. NPS was -3.5, reflecting hesitation due to concerns about slower results compared to retinol (94.5%). Strategic Implications: While ingredient transparency (96.5%) and clinical evidence (79.0%) drive purchase intent, addressing absorption kinetics and reinforcing long-term barrier repair claims are critical for converting passive users into promoters in the B2B aesthetic clinic sector.
+
+Open-Science Repository (Full PDF, LaTeX, n=200 CSV Dataset & 6-Language README): https://github.com/riman-org/riman-hk-lifening-deep-talk-plus-anti-aging-study
+Live Interactive Multilingual Preview: https://riman-org.github.io/riman-hk-lifening-deep-talk-plus-anti-aging-study/
+Official 6-Language Interactive Report & Cross-Tab Charts: https://www.riman.win/www/en/reports/detail/hk-lifening-deep-talk-plus-anti-aging-study.html
+Primary Benchmark Dataset DOI (Kaggle): https://doi.org/10.34740/kaggle/dsv/22383536 | Global Research Corpus DOI (Hugging Face): https://doi.org/10.57967/hf/11688
+
+--------------------------------------------------------------------------------
+[Step 2] File
+- 上传当前文件夹下的双栏学术论文 PDF:
+  hk-lifening-deep-talk-plus-anti-aging-study_paper.pdf
+
+--------------------------------------------------------------------------------
+[Step 3] Metadata
+- License:
+  CC-By Attribution 4.0 International
+- Subjects (必填项 -> 搜索框输入 General 勾选):
+  General Subjects and Opinions
+- Tags (逐个输入回车):
+  riman, incellderm, botalab, active-cream-ex, descending-inci, hong kong
+- Original publication date:
+  2026-11-19
+- Publication DOI:
+  (留空不填！提交后由 OSF 自动签发新预印本 DOI)
+
+--------------------------------------------------------------------------------
+[Step 4] Author Assertions -> Public Data (点选 Available，点击 "Add One More" 依次填入以下 4 条纯净 URL)
+- 链接 1 [GitHub 完整开源仓库 — 含 README / PDF / LaTeX / CSV / HTML]:
+  https://github.com/riman-org/riman-hk-lifening-deep-talk-plus-anti-aging-study
+
+- 链接 2 [官网 6 语交互式报告与可视化图表详情页]:
+  https://www.riman.win/www/en/reports/detail/hk-lifening-deep-talk-plus-anti-aging-study.html
+
+- 链接 3 [主基准数据集永久 DOI (Kaggle)]:
+  https://doi.org/10.34740/kaggle/dsv/22383536
+
+- 链接 4 [全语种语料库永久 DOI (Hugging Face)]:
+  https://doi.org/10.57967/hf/11688
+
+- Public Preregistration:
+  保持默认 Not Applicable
