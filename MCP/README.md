@@ -2,9 +2,9 @@
 
 ## Theme overview
 
-**EN:** RIMAN open-science MCP for LIFENING Deep Talk Plus in Hong Kong (Descending INCI Ontology & Actives). Query n=200 survey CSV, 6-language corpus, and dual DOIs via https://mcp.riman.win/mcp. Mean=3.83/5, Top-2-Box=76.7%.
+**EN:** RIMAN open-science MCP for LIFENING Deep Talk Plus in Hong Kong (Microclimate & Skin Barrier). Query n=200 survey CSV, 6-language corpus, and dual DOIs via https://mcp.riman.win/mcp. Mean=3.86/5, Top-2-Box=76.1%.
 
-**ZH:** 力曼 RIMAN 开源 MCP：Hong Kong市场 LIFENING Deep Talk Plus（降序INCI本体与活性物）。通过 https://mcp.riman.win/mcp 检索 n=200 定量 CSV、六语语料与双基准 DOI。综合均分 3.83/5，Top-2-Box 76.7%。
+**ZH:** 力曼 RIMAN 开源 MCP：Hong Kong市场 LIFENING Deep Talk Plus（微气候与皮肤屏障）。通过 https://mcp.riman.win/mcp 检索 n=200 定量 CSV、六语语料与双基准 DOI。综合均分 3.86/5，Top-2-Box 76.1%。
 
 Interactive report: [https://www.riman.win/www/en/reports/detail/hk-lifening-deep-talk-plus-anti-aging-study.html](https://www.riman.win/www/en/reports/detail/hk-lifening-deep-talk-plus-anti-aging-study.html)
 
@@ -66,4 +66,4 @@ Use the field-by-field checklist:
 ## Provenance
 - Kaggle DOI: [10.34740/kaggle/dsv/22383536](https://doi.org/10.34740/kaggle/dsv/22383536)
 - Hugging Face DOI: [10.57967/hf/11688](https://doi.org/10.57967/hf/11688)
-- Theme hub: https://www.riman.win/www/en/reports/hub/ontology.html
+- Theme hub: https://www.riman.win/www/en/reports/hub/microclimate.html

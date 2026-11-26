@@ -14,7 +14,7 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent
 REPO_NAME = "riman-hk-lifening-deep-talk-plus-anti-aging-study"
 SLUG = "hk-lifening-deep-talk-plus-anti-aging-study"
-DEFAULT_THEME_ID = "ontology"
+DEFAULT_THEME_ID = "microclimate"
 KAGGLE_DOI = "10.34740/kaggle/dsv/22383536"
 HF_DOI = "10.57967/hf/11688"
 SITE = "https://www.riman.win"
